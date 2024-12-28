@@ -60,6 +60,5 @@ You can find my resume [here](https://drive.google.com/file/d/1WBFlhrvoVcwcB5vNH
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhp27&layout=compact&theme=radical)
 
 ---
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
