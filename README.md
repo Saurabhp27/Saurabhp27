@@ -7,7 +7,7 @@ I am a **Software Developer** with experience in building web and mobile applica
 
 ## 👨‍💻 About Me
 - 📍 Based in Pune, India
-- 💼 Currently a **Software Developer Trainee** at **Senwell Solutions**
+- 💼 Currently a **Software Developer** at **Senwell Solutions**
 - 🎓 Bachelor of Engineering in Computer Science (CGPA: 8.67)
 - 🌐 Exploring new technologies and improving my skill set daily
 
