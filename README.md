@@ -54,7 +54,7 @@ I am a **Software Developer** with experience in building web and mobile applica
 ---
 
 ## 📄 Resume
-You can find my resume [here](https://drive.google.com/file/d/1WBFlhrvoVcwcB5vNHsoPBk-DT7lYULu2/view?usp=drivesdk).
+You can find my resume [here]([https://drive.google.com/file/d/1WBFlhrvoVcwcB5vNHsoPBk-DT7lYULu2/view?usp=drivesdk](https://drive.google.com/file/d/1T24SXWon_d-uGz0HcGr2oo8oSYbudxPU/view?usp=drivesdk)).
 
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhp27&layout=compact&theme=radical)
