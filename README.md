@@ -54,7 +54,7 @@ I am a **Software Developer** with experience in building web and mobile applica
 ---
 
 ## 📄 Resume
-You can find my resume [here](https://drive.google.com/file/d/1T24SXWon_d-uGz0HcGr2oo8oSYbudxPU/view?usp=drivesdk).
+You can find my resume [here](https://drive.google.com/file/d/19_HmwvTGeN04oAixNpmAao7M46A3fC7X/view?usp=drive_link).
 
 
 ---
